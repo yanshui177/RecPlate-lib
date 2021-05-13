@@ -12,5 +12,4 @@
   2、net-train-all
   3、img为示例图像
   
-如有疑问   联系：yanshui177@gmail.com
-          微信：yanshui177
+如有疑问，仔细debug即可，非常简单。
